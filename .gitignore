@@ -1,0 +1,15 @@
+.idea
+*.iml
+out
+gen
+
+.vscode/*
+
+.history
+
+*.vsix
+
+coverage
+
+node_modules
+build
